@@ -1,0 +1,34 @@
+{
+"questions": [
+  {
+    "id": 1,
+    "question": "Jaki kolor powstanie z połączenia czerwonego i niebieskiego?",
+    "answer": "Fiolet"
+  },
+  {
+    "id": 2,
+    "question": "Jaki kolor powstanie z połączenia czerwonego i zielonego?",
+    "answer": "Żółty"
+  },
+  {
+    "id": 3,
+    "question": "Jaki kolor powstanie z połączenia zielonego i niebiskiego?",
+    "answer": "Cyjan"
+  },
+  {
+    "id": 4,
+    "question": "Jakie jest największe zwierzę na świecie",
+    "answer": "Płetwal Błękitny"
+  },
+  {
+    "id": 5,
+    "question": "Jakie jest najszybsze zwierzę na świecie?",
+    "answer": "Gepard"
+  },
+  {
+    "id": 6,
+    "question": "Jakie jest najmniejsze zwierzę na świecie?",
+    "answer": "Ryjówka etruska"
+  }
+]
+}
