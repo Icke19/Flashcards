@@ -9,6 +9,7 @@ function Flashcard({data}){
     }
 
     return(<div className="flashcards">
+        {/* eslint-disable-next-line react/prop-types */}
         {data.map((question, idx) => <div onClick={()=>handleClick(question.id)} className={question.id === selectedId ? "selected" : ''} key={idx}>
             <p>{question.id === selectedId ? question.answer : question.question}</p>
         </div>)}
